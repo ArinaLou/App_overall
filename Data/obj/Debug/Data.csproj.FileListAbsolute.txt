@@ -1,0 +1,11 @@
+H:\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+H:\Data\obj\Debug\Data.csproj.SuggestedBindingRedirects.cache
+H:\Data\obj\Debug\Data.Form1.resources
+H:\Data\obj\Debug\Data.Properties.Resources.resources
+H:\Data\obj\Debug\Data.csproj.GenerateResource.cache
+H:\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+H:\Data\bin\Debug\Data.exe.config
+H:\Data\bin\Debug\Data.exe
+H:\Data\bin\Debug\Data.pdb
+H:\Data\obj\Debug\Data.exe
+H:\Data\obj\Debug\Data.pdb
